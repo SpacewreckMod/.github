@@ -1,1 +1,13 @@
-somethin ??
+## Information ℹ️
+**This Mod was made by Pixel3090 AND PlusFLippy** 
+Main features-
+New colors
+New cosmetics
+New map (upcoming)
+Cool Gamemodes
+
+### 🔗Discord Server
+
+[<img src="https://images.squarespace-cdn.com/content/v1/52290b27e4b0d4e459887aa9/1523645697591-KOD97HRR5QMOQ99BU0SK/join-us-on-discord_1.png" 
+     width="150" 
+     height="50" />]()
