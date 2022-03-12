@@ -1,5 +1,5 @@
 ## Information ℹ️
-**This Mod was made by Pixel3090 AND PlusFLippy** 
+**This Mod was made by PixelKing AND PlusFLippy** 
 ##### Main features-
 New colors
 <br>New cosmetics
