@@ -1,5 +1,5 @@
 ## Information ℹ️
-**This Mod was made by PixelKing AND PlusFLippy** 
+**This Mod was made by PixelKing and PlusFlippy** 
 ##### Main features-
 New colors
 <br>New cosmetics
@@ -10,4 +10,4 @@ New colors
 
 [<img src="https://images.squarespace-cdn.com/content/v1/52290b27e4b0d4e459887aa9/1523645697591-KOD97HRR5QMOQ99BU0SK/join-us-on-discord_1.png" 
      width="150" 
-     height="50" />]()
+     height="50" />](https://dsc.gg/betterau)
