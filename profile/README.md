@@ -3,9 +3,9 @@
 
 ### Team:
 Owner: 
-Head Developer: PlusFlippy
-Head Artist: 
-Backup Artists:
+<br>Head Developer: PlusFlippy
+<br>Head Artist: 
+<br>Backup Artists:
 
 
 
