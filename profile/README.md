@@ -4,8 +4,8 @@
 ### Team:
 Owner: 
 <br>Head Developer: PlusFlippy
-<br>Head Artist: 
-<br>Backup Artists:
+<br>Head Artist: Chocolate
+<br>Backup Artists: PawanDewmina, 
 
 
 
