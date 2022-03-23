@@ -2,13 +2,10 @@
 **This Mod was made by PixelKing and PlusFlippy** 
 
 ### Team:
-Owner: 
-<br>Head Developer: PlusFlippy
-<br>Head Artist: Chocolate
-<br>Backup Artists: PawanDewmina, 
-
-
-
+**Owner:**
+<br>**Head Developer:** PlusFlippy
+<br>**Head Artist:** Chocolate
+<br>**Backup Artists:** PawanDewmina, And more...
 
 ### Main features-
 New colors
