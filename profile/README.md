@@ -1,6 +1,16 @@
 ## Information ℹ️
 **This Mod was made by PixelKing and PlusFlippy** 
-##### Main features-
+
+### Team:
+Owner: 
+Head Developer: PlusFlippy
+Head Artist: 
+Backup Artists:
+
+
+
+
+### Main features-
 New colors
 <br>New cosmetics
 <br>New map (upcoming)
