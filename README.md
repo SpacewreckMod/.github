@@ -1,2 +1,2 @@
 # .github
-README of @BetterAU Organization
+README of @SpacewreckMod Organization
